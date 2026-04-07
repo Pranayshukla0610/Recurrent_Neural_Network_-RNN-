@@ -112,8 +112,6 @@ RNN-Project/
 ⚙️ Installation
 
 Clone the repository:
-
-git clone https://github.com/your-username/rnn-project.git
 cd rnn-project
 
 Install dependencies:
